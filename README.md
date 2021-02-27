@@ -6,15 +6,20 @@ For more information, and a hosted service, please visit **[Where2ormore](https:
 
 ---------------------------------------------
 
+## Installation
+
+Check the **[INSTALL.md](INSTALL.md)** for installation instructions
+
+---------------------------------------------
+
 ## Contributing
 
 Pull Requests are welcome! Also error reports are welcome at https://github.com/SolidCharity/where2ormore/issues!
 
-You can also visit **[Installations Page](https://github.com/SolidCharity/where2ormore/blob/master/INSTALL.md)**
 
--------------------------------------------------------
+---------------------------------------------
 ## License
 
 The Where2orMore web app is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
------------------------------ 
+---------------------------------------------
