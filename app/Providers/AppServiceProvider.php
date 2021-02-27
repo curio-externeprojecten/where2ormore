@@ -4,6 +4,7 @@ namespace App\Providers;
 
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Support\Facades\Schema;
+use Illuminate\Pagination\Paginator;
 
 class AppServiceProvider extends ServiceProvider
 {
@@ -26,5 +27,7 @@ class AppServiceProvider extends ServiceProvider
     {
         // avoid issue with artican migrate on older MySQL installation: see https://laravel-news.com/laravel-5-4-key-too-long-error
         Schema::defaultStringLength(191);
+        
+        Paginator::useBootstrap();
     }
 }
