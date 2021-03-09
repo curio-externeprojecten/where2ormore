@@ -9,6 +9,7 @@
 
 ## Setup
 
+* **Clone** the repo (DO NOT DOWNLOAD AS ZIP) - Symbolic links in the repo break when downloading as zip
 * Prepare the development environment:
   1. Clone this repo
   2. Copy the `.env.example` to `.env` and configure your database details
